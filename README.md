@@ -13,7 +13,7 @@ You can either follow the steps or run the `registers-init.sh` script:
 
 1. Copy the `LICENSE` file: `cp LICENSE /path/to/mynewrepo/`.
 2. Copy the `.github` directory: `cp -R .github /path/to/mynewrepo/`.
-3. Copy the "Licence" section from this README to yours: `tail -n 10 README.md | cat - >> /path/to/mynewrepo/README.md`.
+3. Copy the "Licence" section from this README to yours: `tail -n 10 README.md >> /path/to/mynewrepo/README.md`.
 
 ## Licence
 
